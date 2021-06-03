@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance from Ireland, to the high court of Parliament in England. For the speedy oppression of the rebels, with little cost and losse of the protestant party, and the probable way of moving the rebels to submit themselves, and to cut one anothers throats, and to bring the heads of the chiefest actors, thereby to get their pardon presented by a membet [sic] of the House of Commons in Ireland. With a proclamation for proroguing of both Houses of Parliament at the city of Dublin, till the 11. of Ianuary next. With an order for the people all to repaire to their owne dwellings, there to defend the country with the best strength they can.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92426</idno><idno type="EEBO-CITATION">99859317</idno>
+  <idno type="VID">111391</idno>
+  <idno type="EEBO-PROQUEST">2240888108</idno>
+  
+            <idno type="STC">Wing R982</idno>
+            <idno type="STC">Thomason E180_9</idno>
+            <idno type="STC">ESTC R12650</idno>
+            <idno type="PROQUEST">99859317</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859317e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111391)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance from Ireland, to the high court of Parliament in England. For the speedy oppression of the rebels, with little cost and losse of the protestant party, and the probable way of moving the rebels to submit themselves, and to cut one anothers throats, and to bring the heads of the chiefest actors, thereby to get their pardon presented by a membet [sic] of the House of Commons in Ireland. With a proclamation for proroguing of both Houses of Parliament at the city of Dublin, till the 11. of Ianuary next. With an order for the people all to repaire to their owne dwellings, there to defend the country with the best strength they can.</title>
+                  <author>Ireland. Lord Justices and Council.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed at Dublin, and now reprinted at London, and are to bee sold by R. Smithers,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published : Dublin : 1641.</note>
+                  <note>Signed at end: Ormond Ossory [and eight others].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ossory, Ormond.</term>
+               <term type="corporate_name">Ireland. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111391:1"/>
+            <p>A REMONSTRANCE FROM IRELAND, To the High Court of Parliament in ENGLAND.</p>
+            <p>For the speedy oppression of the Rebels, with little cost and losse of the protestant party, and the probable way of moving the Rebels to submit themselves and to cut one anothers throats, and to bring the Heads of the chiefest Actors, thereby to get their pardon, presented by a Membet of the House of Commons in <hi>Ireland.</hi>
+            </p>
+            <p>With a <hi>Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clamation</hi> for proroguing of both Houses of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> at the City of <hi>Dublin,</hi> till the 11. of <hi>Ianuary</hi> next. With an Order for the people all to repaire to their owne dwel<g ref="char:EOLhyphen"/>lings, there to defend the Country with the best strength they can.</p>
+            <p>First printed at <hi>Dubler,</hi> and now reprinted at <hi>Lond<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd are to bee so by <hi>R. Smithers,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111391:2"/>
+            <pb facs="tcp:111391:2"/>
+            <head>A REMONSTRANCE From <hi>IRELAND</hi> To the Parliament in England.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>MAy your Honours be pleased to look up<g ref="char:EOLhyphen"/>on our sad condition and relieve us, the event whereof God knowes what it may bee.</p>
+            <p>There is a way, <hi>Right Honourable,</hi> whereby there is grea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopes to quell the rebels amongst us with<g ref="char:EOLhyphen"/>out any great cost or trouble, in comparison of maintaining armes to goe out against them.</p>
+            <p n="1">1. That every towne be furnisht with men and armes within, and strongly fortifyed about, &amp; made as able to defend it selfe by honest <hi>Protestants</hi> a<g ref="char:EOLhyphen"/>gainst the rebels, as possibly can be attained unto.</p>
+            <p n="2">2. That all beasts and cattle, poultry, and all o<g ref="char:EOLhyphen"/>ther victuals whatsoever, be brought either into, or neare the said townes; so that the rebels cannot come at them without great danger of their lives.</p>
+            <pb facs="tcp:111391:3"/>
+            <p n="3">3. That <hi>Proclamations</hi> be sent forth by the Kings Majesty, with <hi>Declaration of pardon</hi> to those who shall come in and submit themselves, and be found truly penitent, and be converted to the protestant religion, protesting against all popery and popish Innovations.</p>
+            <p n="4">4. That <hi>Proclamations</hi> be sent forth by the Kings Majesty, declaring that whosoever, though of the re<g ref="char:EOLhyphen"/>bels that shall bring the head of his fellow-rebell to the Officers of State, shall upon his submission be pardoued and rewarded with a certaine sum of mo<g ref="char:EOLhyphen"/>ney, or promoted to respect and honour: especially in case they bring the head or heads of some noto<g ref="char:EOLhyphen"/>rious and chiefe of the Ring-leaders of the <hi>Rebels.</hi>
+            </p>
+            <p>This may prove, right honourable, by Gods helpe) the speediest redresse of our grievances; for whilst some are pined with want, food being kept from them, and others with the feare and terrour of this course (as may justly be expected) will very proba<g ref="char:EOLhyphen"/>bly be forced to returne; others for reward and dig<g ref="char:EOLhyphen"/>nity will as all Papists (for the most part) use to doe lay hands one upon the other, and even out one anothers throats, and so even of the rebels them<g ref="char:EOLhyphen"/>selves shall be the murtherers one of another: and so the Kings Majesties faithfull protestant subjects who have not revolted be in the lesse danger, fewer lives lost, and the whole Kingdome sooner brought under subjection.</p>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:111391:3"/>
+            <head>A PROCLAMATION <hi>FOR</hi> Proroguing of both Houses of <hi>Parliament</hi> at the City of Dublin (sooner then by a former Proclamation of the 27 of October last was declared) till the 11. of January next, to the end, that the people may all repaire to their dwellings to defend the coun<g ref="char:EOLhyphen"/>try.</head>
+            <opener>
+               <signed>W. Parsons. I. Borlase.</signed>
+            </opener>
+            <p>WHereas the present Parliament in this king<g ref="char:EOLhyphen"/>dome was formerly adjourned, <hi>viz.</hi> the House of Commons untill the 9. day of this instant Nov. and the House of Lords untill the 16 day of the same month. And whereas we the Lords Justi<g ref="char:EOLhyphen"/>ces did by <hi>Proclamation</hi> dated the said 27. day of O<g ref="char:EOLhyphen"/>ctober, with the advice &amp; assent of the privie Coun<g ref="char:EOLhyphen"/>cell here prorogue the said <hi>Parliament</hi> from the said 9 and 16. dayes of this instant Novem▪ unto the 24. day of Februar. next following, and by the same <hi>Proclamation</hi> we did publish and declare, that both the Lord, and Commons might f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rbeare their At<g ref="char:EOLhyphen"/>tendance, and appearance in <hi>Parliament</hi> upon the said 9 and 16. dayes of Novem. And we did thereby command them to be present at the Castle of Dub<g ref="char:EOLhyphen"/>lin upon the said 24 day of February next,</p>
+            <pb facs="tcp:111391:4"/>
+            <p>Since which Proclamation humble suit was made unto us by severall members of the same parlia<g ref="char:EOLhyphen"/>ment, that (to take away some doubts which they conceived, if the prorogation were made otherwise) some of the house of Commons might assemble up<g ref="char:EOLhyphen"/>on the said 9 day of this instant Nov. and might ad<g ref="char:EOLhyphen"/>journ their house from the said 9. untill the said 16 day of this instant Nov. so that the prorogation might be made that day. Whereunto we did assent and an appearance and an adjournment was made upon the said ninth day of this instant November accordingly.</p>
+            <p>And whereas after the said 9 day, and before the said 16 day of this instant Nov. further request was made unto us by divers members of the same <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> that both houses of <hi>Parliament</hi> might bee permitted to assemble upon the said 16. day of this instant Nov. and to sit a day or two, wherein they might make some publike Declaration of their Loyalties, and withall that the next Session of this <hi>Parliament</hi> might not be ye ferred so long, as untill the said 24 day of Febr next, but that both houses might sooner assemble. And it was also desired by divers members of the same <hi>Parliament,</hi> that the place of the next meeting in <hi>Parliament</hi> might bee in some other place then the Castle of Dublin.</p>
+            <p>Whereunto we the Lords Iustices, with the ad<g ref="char:EOLhyphen"/>vice of the privie Councell here condiscenced, and thereupon both houses did meet at his Majesties castle at Dublin upon the said 16, day of this instant Nov. and did then and there sit all that whole day, and the next whole day following, being the 17. day
+<pb facs="tcp:111391:4"/>of the same moneth, upon which day the same <hi>Par<g ref="char:EOLhyphen"/>liament</hi> was prorogued untill the 11. day of <hi>Ian.</hi> next, then to be holden at the city of <hi>Dublin.</hi> Wher<g ref="char:EOLhyphen"/>fore we doe hereby make publication thereof, to all whom it concernes, that they may frame their af<g ref="char:EOLhyphen"/>faire<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and attend accordingly, the aforementioned <hi>Proclamation</hi> to the contrary notwithstanding. And wee doe hereby require and command aswell the members of both houses, who are not speciall inte<g ref="char:EOLhyphen"/>rested in the publike affaires of State here, as all o<g ref="char:EOLhyphen"/>thers whomsoever, that in the meane time they and every of them doe immediately repaire home to their owne dwellings to defend the Countrey, and to attend such services there, as to them doe respe<g ref="char:EOLhyphen"/>ctively belong, as by a former <hi>Proclamation</hi> of the eleventh of this instant Nov. hath bin commanded.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at his Maiesties Castle of Dublin,</hi>
+                  <date>
+                     <hi>November</hi> 27. 1641.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Ormond Ossory.</hi>
+                     </item>
+                     <item>
+                        <hi>Ad. Lostus.</hi>
+                     </item>
+                     <item>
+                        <hi>Cha. Coote,</hi>
+                     </item>
+                     <item>
+                        <hi>R. Dillon.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Shurley.</hi>
+                     </item>
+                     <item>P. <hi>Crosbie.</hi>
+                     </item>
+                     <item>
+                        <hi>Cha. Lambert.</hi>
+                     </item>
+                     <item>
+                        <hi>I. Temple.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Meredith.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
